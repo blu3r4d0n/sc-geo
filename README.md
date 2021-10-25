@@ -1,0 +1,3 @@
+# SC Geography Files
+
+This repository contains South Carolina related geography files. These files are provided to the public via state agencies, but it's often hard to track them down so I'm going to provide them here. I plan to add pretty much anything I find that I feel others may want to use. The top level directory describes what type of boundaries or data the files within provide. Some of these directories and their subdirectories may contain additional readmes to guide users. Each of the top level directories contain subdirectories labeled with  the year its files were updated. Expect this repo to be dynamic.
